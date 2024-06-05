@@ -11,11 +11,11 @@
 /* Variables */
 :root {
   --avatar-size: 32px;
-  --background-image: url("https://i.pximg.net/img-original/img/2024/06/05/12/59/27/119362560_p0.png");
+  --background-image: url("https://raw.githubusercontent.com/rezytijo/BetterDiscordThemes/main/Background/Furina2-1920x1080.jpg");
   --home-image: url("https://static.wikia.nocookie.net/plantsvszombies/images/f/f7/Primalpeashooterpvz2.png");
-  --background-solid: #161921b4;
-  --background-solid-dark: #161921b4;
-  --background-solid-darker: #161921b4;
+  --background-solid: #1619217c;
+  --background-solid-dark: #10121860;
+  --background-solid-darker: #0c0e1200;
   --accent: 37, 172, 232;
   --accent-alt: 29, 101, 134;
 }
