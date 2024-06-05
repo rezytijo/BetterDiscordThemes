@@ -1,0 +1,21 @@
+/**
+ * @name Dark Matter Furina
+ * @author Tropical#8908, Hammock#3110, Primall#Peashooter
+ * @version 3.0.0
+ * @description A cold, dark & frosty theme.
+ * @source https://github.com/DiscordStyles/DarkMatter/
+*/
+
+@import url("https://DiscordStyles.github.io/DarkMatter/src/base.css");
+
+/* Variables */
+:root {
+  --avatar-size: 32px;
+  --background-image: url("https://i.pximg.net/img-original/img/2024/06/05/12/59/27/119362560_p0.png");
+  --home-image: url("https://static.wikia.nocookie.net/plantsvszombies/images/f/f7/Primalpeashooterpvz2.png");
+  --background-solid: #161921b4;
+  --background-solid-dark: #161921b4;
+  --background-solid-darker: #161921b4;
+  --accent: 37, 172, 232;
+  --accent-alt: 29, 101, 134;
+}
