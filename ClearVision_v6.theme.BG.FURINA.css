@@ -51,7 +51,7 @@
     0,
     0.6
   ); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://i.pximg.net/img-original/img/2024/06/05/12/59/27/119362560_p0.png); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url("C:\Users\RezyWaskito\AppData\Roaming\Vencord\themes\Background\Furina2-1920x1080.jpg"); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
